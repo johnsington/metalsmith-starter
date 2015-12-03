@@ -1,0 +1,21 @@
+{
+  "name": "metalsmith-starter",
+  "version": "1.0.0",
+  "description": "starter template for metalsmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Salaveria",
+  "license": "ISC",
+  "dependencies": {
+    "metalsmith": "^2.1.0",
+    "metalsmith-collections": "^0.7.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-permalinks": "^0.4.0",
+    "metalsmith-templates": "^0.7.0"
+  },
+  "devDependencies": {
+    "harmonize": "^1.4.4"
+  }
+}
